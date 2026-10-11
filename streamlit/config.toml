@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#b91c1c"
+base = "light"
+
+[server]
+headless = true
+enableCORS = false
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false
